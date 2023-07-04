@@ -1,2 +1,3 @@
 # Reinforcement-Learning-Specialization
-Master the Concepts of Reinforcement Learning. Implement a complete RL solution and understand how to apply AI tools to solve real-world problems.
+This repository sums up plenty of interesting projects I have studied through the entire specialization
+[Coursera H3VDJ2YHDUYU (1).pdf](https://github.com/johnleung8888/Reinforcement-Learning-Specialization/files/11950824/Coursera.H3VDJ2YHDUYU.1.pdf)
